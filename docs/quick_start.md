@@ -1,7 +1,7 @@
 # Quick start
 
 Deep Java Library (DJL) is designed to be easy to get started with and simple to use.
-The easiest way to learn DJL is to read the [beginner tutorial](https://docs.djl.ai/master/docs/demos/jupyter/tutorial/README.md) or
+The easiest way to learn DJL is to read the [beginner tutorial](https://docs.djl.ai/master/docs/demos/jupyter/tutorial/index.html) or
 our [examples](../examples/README.md).
 
 You can also view our 1.5 hour long (in 8 x ~10 minute segments) DJL 101 tutorial video series:
